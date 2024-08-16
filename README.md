@@ -82,4 +82,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ### Customization
 - Replace `https://github.com/yourusername/demo-nodejs-app.git` with your repository URL.
 - Add any additional sections or information specific to your project.
-'''
